@@ -1,5 +1,5 @@
 cask "videomass" do
-  version "1.0.0"  # Update this to the latest version
+  version "5.0.20"
   sha256 "61d09b81b47d88cd39bb456b4e1a3dd8e21f2fb63658236661f1de64093dbb9e"
   url "https://files.pythonhosted.org/packages/source/v/videomass/videomass-#{version}.tar.gz"
   name "Videomass"
